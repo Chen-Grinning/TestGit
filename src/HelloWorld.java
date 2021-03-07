@@ -3,3 +3,4 @@ public class HelloWorld {
         System.out.println("Hello Git!");
     }
 }
+//   Project configurations files can be added to Git
